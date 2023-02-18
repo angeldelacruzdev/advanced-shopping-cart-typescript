@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 99.99,
+    "description": "This is a description",
+    "image": "/laptop.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "price": 200,
+    "description": "This is a description",
+    "image": "/laptop.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Laptop",
+    "price": 300,
+    "description": "This is a description",
+    "image": "/laptop.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Laptop",
+    "price": 400,
+    "description": "This is a description",
+    "image": "/laptop.jpg"
+  }
+]
